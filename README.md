@@ -15,9 +15,6 @@ The aim of this project is to use machine learning to characterize properties of
 - **Density**: Solar wind particle density is expected to range between 0 and several hundred particles per cubic centimeter. Negative density values are not possible and will be removed.
 - **Mass_flow_rate**: It is calculated as the product of density and velocity.
 
-
-## Files
-
 ## Execution
 
 1.  Run the _cleaning.ipynb_ notebook to clean the original dataset (removes values that are too large or small and removes missing values)
