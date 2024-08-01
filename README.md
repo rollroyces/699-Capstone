@@ -19,3 +19,8 @@ The aim of this project is to use machine learning to characterize properties of
 ## Files
 
 ## Execution
+
+1.  Run the _cleaning.ipynb_ notebook to clean the original dataset (removes values that are too large or small and removes missing values)
+2.  Run the _pca_clustering.ipynb_ notebook to get the results of the PCA dimension reduction and then clustering based off of PCA
+3.  Run the _umap_clustering.ipynb_ notebook to get the results of the UMAP dimension reductions and then clustering based off of UMAP
+4.  Run the 
