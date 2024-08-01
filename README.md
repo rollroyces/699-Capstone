@@ -2,6 +2,8 @@
 
 ## Description
 
+The aim of this project is to use machine learning to characterize properties of the solar wind. Using a machine learning approach to characterize solar wind can help researches in heliophysics learn more about this data.  Due to high pressure and temperatures of the Sun's atmosphere, partially ionized gas is expelled from the Sun.  This creates a plasma flow throughout the entire Solar System.  The Solar Orbiter can take measurements of the properties of the solar wind.  These measurements include elemental abundance/charge state ratios, average charge state, velocity, and density.  Events on the Sun, known as Coronal Mass Ejection Events, eject lots of energy that is spread throughout the Solar System.  These ejections can disrupt systems on Earth, such as electronic and communication systems. Data from the Solar Orbiter can help in prepare Earth for when these events occur.  In this project, we are using unsupervised learning techniques, such as dimension reduction and clustering, to help researchers eventually automatically detect these events on the Sun.  
+
 ## Features
 
 - **O7_O6_ratio**: This ratio indicates the loss of 7 electrons (+7) and 6 electrons (+6) by the oxygen atom. The ratio is always non-negative, and any negative value suggests data errors that need to be eliminated.
