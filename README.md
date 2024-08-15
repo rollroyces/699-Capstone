@@ -21,3 +21,16 @@ The aim of this project is to use machine learning to characterize properties of
 2.  Run the _pca_clustering.ipynb_ notebook to get the results of the PCA dimension reduction and then clustering based off of PCA
 3.  Run the _umap_clustering.ipynb_ notebook to get the results of the UMAP dimension reductions and then clustering based off of UMAP
 4.  Run the _SIADS 699 Isolation Forest and LSTM forecast.ipynb_ notebook to get the results of the isolation forest and the LSTM forecast
+
+
+##Data Access Statement
+
+The data required for this project is a combination of publicly available datasets and proprietary datasets created by the project lead. The publicly available datasets include:
+
+- ACE Mission data: Available for download from the ACE Science Center website (https://www.srl.caltech.edu/ACE/)
+- Solar Orbiter Mission data: Available for download from the Solar Orbiter Science Archive (https://soar.esac.esa.int/soar/)
+- Sunspot Number data: Available for download from the World Data Center for the Production, Preservation and Dissemination of the International Sunspot Number (https://wwwbis.sidc.be/silso/datafiles)
+
+The proprietary Heliospheric Current Sheet (HCS) Index dataset is owned by the project lead, Dr. Liang Zhao from the University of Michigan Climate and Space Sciences and Engineering department. Students will be provided access to this dataset upon signing a non-disclosure agreement (NDA) with the University of Michigan.
+
+All data usage and redistribution must comply with the licensing terms of the respective datasets. The publicly available datasets typically have open data policies, while the proprietary HCS Index dataset is subject to the University of Michigan's NDA terms.
