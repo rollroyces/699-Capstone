@@ -23,7 +23,7 @@ The aim of this project is to use machine learning to characterize properties of
 4.  Run the _SIADS 699 Isolation Forest and LSTM forecast.ipynb_ notebook to get the results of the isolation forest and the LSTM forecast
 
 
-##Data Access Statement
+## Data Access Statement
 
 The data required for this project is a combination of publicly available datasets and proprietary datasets created by the project lead. The publicly available datasets include:
 
